@@ -67,7 +67,6 @@
                     <connections>
                         <segue destination="wXN-eN-cuh" kind="relationship" relationship="viewControllers" id="89W-KO-6Bt"/>
                         <segue destination="zdQ-Zw-gzE" kind="relationship" relationship="viewControllers" id="4WO-IM-Fdw"/>
-                        <segue destination="Yqy-5f-6sG" kind="relationship" relationship="viewControllers" id="ZfN-ct-hCD"/>
                         <segue destination="JQ5-jc-efn" kind="relationship" relationship="viewControllers" id="93v-w5-YyZ"/>
                     </connections>
                 </tabBarController>
@@ -107,10 +106,10 @@
         </scene>
     </scenes>
     <resources>
-        <image name="Assets" width="24" height="24"/>
-        <image name="Market" width="23" height="23"/>
-        <image name="Settings" width="23" height="20"/>
-        <image name="Trade" width="24" height="24"/>
+        <image name="Assets" width="25" height="25"/>
+        <image name="Market" width="25" height="25"/>
+        <image name="Settings" width="25" height="25"/>
+        <image name="Trade" width="25" height="25"/>
     </resources>
     <color key="tintColor" red="0.26051741839999998" green="0.2605243921" blue="0.260520637" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
 </document>
